@@ -1,4 +1,4 @@
-# MML Transposer DOS (MMLTRD16)
+# MML Transposer DOS (MMLTRDOS)
 
 NSF 用 MML ファイル移調ツール「MML Transposer」の  
 16bit リアルモード MS-DOS 版（CUI版）です。
@@ -15,7 +15,7 @@ NSF 用 MML ファイル移調ツール「MML Transposer」の
 ## 使い方
 
 ```bash
-mmltrd16 [options] <input.mml> [shift] [output.mml]
+mmltrdos [options] <input.mml> [shift] [output.mml]
 ```
 
 ### オプション
