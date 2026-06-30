@@ -44,7 +44,7 @@ void print_usage(void) {
         "  -a, --absolute   Absolute octave mode\n"
         "  -d, --dch        Transpose D-channel (noise channel included)\n"
         "\n"
-        "== MML Transposer Win32 CUI - Win32 Console Application ==\n"
+        "== MML Transposer DOS - 16bit Real Mode MS-DOS Application ==\n"
         "\n"
         "This program transposes MML source code written for NSF music.\n"
         "It does not handle NSF files.\n"
